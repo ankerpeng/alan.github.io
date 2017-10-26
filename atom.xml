@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Alan PENG</title>
+  <title>Pengxingsong &amp; BOLG</title>
   
-  
+  <subtitle>学无捷径，学无止境</subtitle>
   <link href="/hexoblog/atom.xml" rel="self"/>
   
   <link href="https://ankerpeng.github.io/hexoblog/"/>
@@ -10,7 +10,7 @@
   <id>https://ankerpeng.github.io/hexoblog/</id>
   
   <author>
-    <name>alan peng</name>
+    <name>pengxingsong</name>
     
   </author>
   
